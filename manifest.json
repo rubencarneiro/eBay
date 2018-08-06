@@ -1,0 +1,15 @@
+{
+    "description": "Unofficial eBay webapp for Ubuntu Touch Based on ogra.",
+    "framework": "ubuntu-sdk-15.04.6",
+    "hooks": {
+        "ebay": {
+            "apparmor": "app.json",
+            "desktop": "ebay.desktop"
+        }
+    },
+    "installed-size": "115",
+    "maintainer": "Rúben Carneiro <rubencarneiro01@gmail.com>",
+    "name": "ebay.rubencarneiro",
+    "title": "eBay",
+    "version": "1.2"
+}

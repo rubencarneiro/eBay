@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=eBay
+Comment= Unofficial eBay webapp for Ubuntu Touch Based on ogra.
+Type=Application
+Icon=ebay.png
+Exec=qmlscene %u qml/Main.qml
+Terminal=false
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#ffffff

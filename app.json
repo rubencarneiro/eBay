@@ -1,0 +1,13 @@
+{
+    "policy_groups": [
+        "audio",
+        "camera",
+        "content_exchange",
+        "content_exchange_source",
+        "keep-display-on",
+        "location",
+        "networking",
+        "webview"
+    ],
+    "policy_version": 1.3
+}

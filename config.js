@@ -1,0 +1,5 @@
+var webappName = "ebay.rubrncarneiri"
+var webappUrl = "https://www.ebay.com/"
+var webappUrlPattern = ""
+var hapticLinks = "true"
+var audibleLinks = "true"

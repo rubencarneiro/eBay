@@ -19,7 +19,7 @@ anchors {
             fill: parent
         }
 
-    applicationName: "ebay.rubrncarneiri"
+    applicationName: "ebay.rubencarneiro"
     anchorToKeyboard: true
     automaticOrientation: true
 
